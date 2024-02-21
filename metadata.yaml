@@ -1,11 +1,16 @@
 _repo: A-winter-in-retirement-b-or-scattered-leaves_72811
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72811-h/images/cover.jpg
 creator:
   author:
     agent_name: Washburn, Hannah Blaney
     gutenberg_agent_id: '56816'
     url: http://www.gutenberg.org/2009/agents/56816
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72811#A-winter-in-retirement-b-or-scattered-leaves
 gutenberg_issued: '2024-01-29'
 gutenberg_type: Text
 identifiers:
